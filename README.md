@@ -1,6 +1,3 @@
-# Social-Media-usage-and-Emotional-Wellbeing
-This project uses Machine Learning and Deep Learning models to predict emotional well-being based on social media usage data, with an interactive Streamlit interface for real-time prediction.
-
 # 📱 Social Media Usage & Emotional Well-Being Prediction
 
 This project predicts a user’s dominant emotional state based on their social media usage patterns using Machine Learning and Deep Learning models.
