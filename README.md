@@ -79,8 +79,7 @@ Streamlit
 # ▶️ How to Run the Project
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/emotion-prediction-app.git
-cd emotion-prediction-app
+git clone https://github.com/Chaviverma/Social-Media-usage-and-Emotional-Wellbeing
 
 2️⃣ Install Dependencies
 pip install -r requirements.txt
